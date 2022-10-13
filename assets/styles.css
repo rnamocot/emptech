@@ -251,4 +251,6 @@ background: url(../assets/images/fl5.jpg);
     background-color: #0d6efd2b;
     border-radius: 30px;
 }
-
+.image-map {
+    margin-right: 20px;
+}
