@@ -256,3 +256,34 @@ background: url(../assets/images/fl5.jpg);
 .image-map {
     margin-right: 20px;
 }
+/* mobile responsive */
+@media only screen and (max-width: 767px) {
+.col-md-6.banner-col {
+    padding: 30px;
+    background-color: #fffffff2;
+    border-radius: 30px;
+}
+.contents h2 {
+    width: 100%;
+    font-size: 16px;
+}
+img.flood-img {
+    height: auto;
+    margin: 10px 0px;
+}
+.ws-row {
+    padding: 20px !important;
+}
+img.noah-img {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.prev-section .contents, .ref-sec .contents {
+    margin-top: 10px !important;
+
+}
+a.nav-link {
+    margin-top: 0px;
+ 
+}
+}
